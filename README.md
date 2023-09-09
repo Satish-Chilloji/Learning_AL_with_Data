@@ -1,6 +1,6 @@
 # How to Run the Learning Active Learning with Data Code.
 
-1.  Clone the repository ```git clone https://github.com/Satish-Chilloji/Learning_AL_with_Data.git``
+1.  Clone the repository ```git clone https://github.com/Satish-Chilloji/Learning_AL_with_Data.git```
 1.  Create the Conda environment using commands : ```conda create -n "LAL" python=3.11```
 2.  Activate the Conda environment : ```conda activate LAL```
 3.  Install the required libraries: ```pip install -r requirements.txt```
